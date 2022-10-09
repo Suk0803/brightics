@@ -1,1 +1,1 @@
-# brightics
+# brightics A.I
